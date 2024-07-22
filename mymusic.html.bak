@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home Page</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <header>
+      <nav>
+        <div class="container">
+          <h1 text-align="center" ;+="">Aidan James Kennedy</h1>
+          <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="aboutme.html">About Me</a></li>
+            <li><a href="mytown.html">My Town</a></li>
+            <li><a href="mymusic.html" class="active">My Favorite Music</a></li>
+          </ul>
+        </div>
+      </nav>
+    </header>
+    <section id="hero">
+      <h2>My Favorite Music</h2>
+    </section>
+    <section id="body">
+      <div class="container">
+        <p> Brazil </p>
+        <audio src="file:///Z:/Frontiers24-2/Declan%20McKenna%20-%20Brazil%20%28Official%20Video%29.mp3"
+
+          preload="automatic" controls="controls"></audio> <br>
+        <p> Homesick </p>
+        <audio src="file:///Z:/Frontiers24-2/Noah%20Kahan%20-%20Homesick%20%28Official%20Lyric%20Video%29.mp3"
+
+          preload="automatic" controls="controls"></audio> <br>
+        <p> See You Again </p>
+        <audio src="file:///Z:/Frontiers24-2/See%20You%20Again%20%28Clean%29%20-%20Tyler,%20The%20CreatorKali%20Uchis.mp3"
+
+          preload="automatic" controls="controls"></audio> </div>
+    </section>
+    <footer>
+      <div class="container">
+        <p>© 2024 My Website. All rights reserved.</p>
+      </div>
+    </footer>
+  </body>
+</html>

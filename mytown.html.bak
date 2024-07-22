@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home Page</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <header>
+      <nav>
+        <div class="container">
+          <h1 text-align="center" ;+="">Aidan James Kennedy</h1>
+          <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="aboutme.html">About Me</a></li>
+            <li><a href="mytown.html" class="active">My Town</a></li>
+          </ul>
+        </div>
+      </nav>
+    </header>
+    <section id="hero">
+      <div class="container">
+        <h2>North Reading, MA</h2>
+      </div>
+    </section>
+    <section id="body">
+      <p font-size="5px"; padding-left="50px"; padding-right="50px"> Long ago, in 1651, people started to live in an area
+        near a river called Ipswich. They got permission to settle there from a
+        town called Reading. In 1853, this area officially became its own town
+        called North Reading. North Reading is next to other towns like Andover,
+        North Andover, Middleton, Lynnfield, Reading, and Wilmington. Back then,
+        about 350 years ago, a few families came to live here. They had big
+        farms near the river. They mostly grew food to eat, like vegetables.
+        There was also a sawmill to cut wood by a pond in 1694, and later, more
+        mills to grind grains and cut wood. Around 1820, people started to make
+        shoes, and by 1850, almost every house had a small place to make shoes.
+        They made shoes that were not expensive and sold them to people far
+        away. During the Civil War in the 1860s, things changed. The town's shoe
+        business went down, but they still made things like milk, apples, and
+        other fruits in the 1900s. That's how North Reading grew from small
+        farms to a town making different things over time! </p>
+      <img src="https://pagesix.com/wp-content/uploads/sites/3/2013/12/kennedy1.jpg?quality=75&amp;strip=all&amp;w=1200">
+    </section>
+    <footer>
+      <div class="container">
+        <p>© 2024 My Website. All rights reserved.</p>
+      </div>
+    </footer>
+    
+  </body>
+</html>

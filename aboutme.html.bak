@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home Page</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <header>
+      <nav>
+        <div class="container">
+          <h1 text-align="center" ;+="">Aidan James Kennedy</h1>
+          <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="aboutme.html" class="active">About Me</a></li>
+            <li><a href="mytown.html">My Town</a></li>
+          </ul>
+        </div>
+      </nav>
+    </header>
+    <section id="hero">
+      <div class="container">
+        <h2>About Aidan Kennedy</h2>
+      </div>
+    </section>
+    <section id="body">
+      <p>Aidan is a dynamic and accomplished senior at a public high school in
+        Massachusetts. He is deeply involved in both academics and
+        extracurricular activities, demonstrating a strong commitment to
+        personal growth and community involvement.
+        As an athlete, Aidan excels in ski racing and is a dedicated runner,
+        specializing in the mile for his school's track team. His athletic
+        pursuits reflect his dedication to discipline, endurance, and a passion
+        for challenging himself physically.
+        In addition to his athletic achievements, Aidan is a leader in his
+        school community. He serves as the class of 2025 class secretary, where
+        he plays a crucial role in organizing events and representing his peers.
+        His leadership extends to the Model UN team, where he is the head
+        delegate, showcasing his skills in diplomacy, public speaking, and
+        critical thinking.
+        Outside of school, Aidan works as a professional lifeguard and a camp
+        counselor, roles that highlight his responsibility and commitment to the
+        safety and well-being of others. He is also on a path to achieving the
+        rank of Eagle Scout, demonstrating his dedication to service,
+        leadership, and the values of the Scouting movement.
+        Aidan's diverse interests and accomplishments make him a well-rounded
+        and impressive individual, poised for success in his future endeavors.</p>
+      <img src="original-513710FD-D721-4AA3-B572-27E7F27BCFDD.jpeg"
+
+        alt="Image of me" title="akimg" style="width: 234px; height: 270px;"><br>
+    </section>
+    <footer>
+      <div class="container">
+        <p>© 2024 My Website. All rights reserved.</p>
+      </div>
+    </footer>
+  </body>
+</html>
